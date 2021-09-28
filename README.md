@@ -18,3 +18,5 @@ Titanic Automation: [Model Generation with Training Data](https://github.com/don
 
 [Model Prediction with Testing Data](https://github.com/dongzhang84/Featuretools/blob/main/Titanic_Featuretools_automation_test.ipynb)
 - Load saved four things mentioned above, and do the prediction
+
+More detailed [FeatureTools Notes](https://github.com/dongzhang84/Study_Notes/blob/main/FeatureTools_Notes.md) based on the Titanic problem. 
