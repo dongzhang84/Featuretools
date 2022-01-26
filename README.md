@@ -4,7 +4,7 @@
 
 [Getting Started](https://github.com/dongzhang84/Featuretools/blob/main/get_started_detailed.ipynb): follow [this tutorial](https://featuretools.alteryx.com/en/stable/getting_started/using_entitysets.html).
 
-[Titanic Problem](https://github.com/dongzhang84/Featuretools/blob/main/Titanic_Featuretools.ipynb): From automatic feature engineering to automatic feature selection, but only for a given test dataset. 
+[Titanic Problem](https://github.com/dongzhang84/Featuretools/blob/main/Titanic_Featuretools.ipynb): From automatic feature engineering to automatic feature selection, but only for a given test dataset. (**Note that this work is based on Featuretools version 0.27.1**)
 
 Titanic Automation: [Model Generation with Training Data](https://github.com/dongzhang84/Featuretools/blob/main/Titanic_Featuretools_automation_train.ipynb)
 - FeatureTools automatized FE, saved FE
